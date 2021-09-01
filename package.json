@@ -3,6 +3,7 @@
     "displayName": "Moon Light Theme",
     "description": "Moon Light Theme",
     "icon": "images/Moon-Light.png",
+    "publisher": "mukunthan",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.59.0"
