@@ -1,0 +1,27 @@
+{
+    "name": "moon-light-theme",
+    "displayName": "Moon Light Theme",
+    "description": "Moon Light Theme",
+    "icon": "images/Moon-Light.png",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "vscode",
+        "theme",
+        "dark"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Moon Light",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Moon-Light-Theme-color-theme.json"
+            }
+        ]
+    }
+}
