@@ -11,4 +11,8 @@ Moon Light theme is a dark material-like theme with blue tones.
  6. Press Ctrl K+Ctrl T
  7. Pick "**Moon Light**" one from the list and hit enter
  8. Enjoy!
- 
+ ## ScreenShot
+ ![Moon-Light-Theme](https://github.com/mukunthan7/Moon-Light-Theme/blob/main/images/Moon-Light-Theme.png?raw=true)
+
+### Issues
+Report to: [https://github.com/mukunthan7/Moon-Light-Theme/issues](https://github.com/mukunthan7/Moon-Light-Theme/issues)
