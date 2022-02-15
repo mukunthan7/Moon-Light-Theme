@@ -22,7 +22,7 @@ Moon Light theme is a dark material-like theme with blue tones.
 ## ScreenShot
 
 ![Moon-Light-Theme](https://github.com/mukunthan7/Moon-Light-Theme/blob/main/images/Moon-Light-Theme.png?raw=true)
-![rectjs](https://github.com/mukunthan7/Moon-Light-Theme/blob/main/images/rect.jpg?raw=true)
+![react](https://github.com/mukunthan7/Moon-Light-Theme/blob/main/images/react.jpg?raw=true)
 ![html](https://github.com/mukunthan7/Moon-Light-Theme/blob/main/images/html.jpg?raw=true)
 ![css](https://github.com/mukunthan7/Moon-Light-Theme/blob/main/images/css.jpg?raw=true)
 
